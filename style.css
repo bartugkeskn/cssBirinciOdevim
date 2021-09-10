@@ -1,0 +1,74 @@
+.urun-image {
+    width: 200px;
+    height: 200px;
+}
+
+.ortala {
+    text-align: center;
+}
+
+.unordered-list {
+    margin:0;
+    padding:0;
+    text-align: center;	
+    list-style:none;
+}
+
+.ordered.list {
+    margin:0;
+    padding:0;
+    text-align: center;	
+    list-style: decimal inside one;
+}
+
+.li-align{
+    list-style-position: inside;
+}
+
+.font-openSans{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.font-ebGaramond{
+    font-family: 'EB Garamond', serif;
+}
+
+.fontSize-50{
+    font-size: 50px;
+}
+
+.fontSize-p{
+    font-size: 25px;
+}
+
+.background-image{
+    background-image: url("Images/pageBackground.jpg");
+}
+
+.background-color{
+    background-color: #006400;
+}
+
+.navTextColor{
+    color: #DCDCDC;
+}
+
+.h1Color{
+    color:#FFD700;
+}
+
+.anasayfaTextColor{
+    color: #FFD700;
+}
+
+.pColor{
+    color: #DCDCDC;
+}
+
+.vurguRengi{
+    color: #ADFF2F;
+}
+
+.hrStyle{
+    border: 1px dashed #ADFF2F;
+}
